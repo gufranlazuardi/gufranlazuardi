@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hello, I'm Gufron! 👋<br><br>I'm a budding frontend enthusiast currently on a learning adventure in web development and UI design. <br>Currently trying to switch into a tech career and based in Bekasi, I'm passionate about building a strong foundation in frontend fields.<br><br>- 🔭 Exploring:<br>  I'm eagerly exploring the world of web development on my own, building projects, and learning from online resources.<br><br>- 📚 Learning:<br>  My current focus is on mastering React, TypeScript, improving state management, and explore UI design skills.<br><br>- ⚡ Free Time:<br>  In my free time, I enjoy experimenting with code, trying out new design concepts, and staying informed about the latest in web development.<br><br>Let's connect and learn together! 🚀</p>
+<p align="left">Hello, I'm Gufron! 👋<br><br>I'm a budding frontend enthusiast currently on a learning adventure in web development and UI design. <br>Currently trying to switch into a tech career, I'm passionate about building a strong foundation in frontend fields.<br><br>- 🔭 Exploring:<br>  I'm eagerly exploring the world of web development on my own, building projects, and learning from online resources.<br><br>- 📚 Learning:<br>  My current focus is on mastering React, TypeScript, improving state management, and explore UI design skills.<br><br>- ⚡ Free Time:<br>  In my free time, I enjoy experimenting with code, trying out new design concepts, and staying informed about the latest in web development.<br><br>Let's connect and learn together! 🚀</p>
 
 ###
 
