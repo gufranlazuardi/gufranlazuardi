@@ -8,7 +8,7 @@
 ###
 
 - **Reach me on:** gufranlazuardi@gmail.com
-- **My personal website:** [gufran-lazuardi.vercel.app](https://gufranlazuardi-portfolio.vercel.app)
+- **My personal website:** [gufran-lazuardi.vercel.app](https://gufran-lazuardi.vercel.app)
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
