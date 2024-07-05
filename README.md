@@ -3,7 +3,7 @@
 
 ###
 
-<p> I'm an aspiring frontend enthusiast currently on a learning journey in web development and UI design, looking to switch into a tech career. Passionate about building a strong foundation in frontend fields with React and Typescript</p>
+<p> I'm an aspiring frontend enthusiast currently on a learning journey in web development and UI design, looking to switch into a tech career. Passionate about building a strong foundation in frontend fields with React and Next Js</p>
 
 ###
 
