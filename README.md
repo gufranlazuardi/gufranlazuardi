@@ -3,7 +3,7 @@
 
 ###
 
-<p> I'm Software Engineer, exploring web with React and Golang</p>
+<p> I'm Software Engineer, exploring web development</p>
 
 ###
 
