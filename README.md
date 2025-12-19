@@ -3,7 +3,7 @@
 
 ###
 
-<p> I'm Software Engineer, exploring web development</p>
+<p> I'm Software Engineer (?)</p>
 
 ###
 
@@ -23,6 +23,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="typescript logo" />
+  <img width="12" />
+  <img height="20" alt="node logo" src="https://github.com/user-attachments/assets/5fd0927f-bebf-41c2-9c16-782fbe7a1f02" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo" />
   <img width="12" />
